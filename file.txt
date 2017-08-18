@@ -1,3 +1,5 @@
 this is test content
 
-Updating this file from windows machine. This has changed since last commit
+Updating this file from windows machine. This has changed since last commit.
+
+Adding content in file from branch issue505
